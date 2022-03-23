@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "crypto": "^1.0.1",
+    "g": "^2.0.1",
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.2"
+  }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "album": {
+            "name": "Division Bell",
+            "artist": "Pink Floyd",
+            "id": "divisionbell",
+            "year": 1994
+        }
+    },
+    {
+        "album": {
+            "name": "Morning View",
+            "artist": "Incubus",
+            "id": "morningview",
+            "year": 2001
+        }
+    },
+    {
+        "album": {
+            "name": "OK Computer",
+            "artist": "Radiohead",
+            "id": "okcomputer",
+            "year": 1997
+        }
+    },
+    {
+        "album": {
+            "name": "Houses of the Holy",
+            "artist": "Led Zeppelin",
+            "year": 1973,
+            "id": "744873jdfnari43"
+        }
+    },
+    {
+        "album": {
+            "name": "Midnight Marauders",
+            "artist": "A Tribe Called Quest",
+            "year": 1993,
+            "id": "5558jandfov43j6"
+        }
+    },
+    {
+        "album": {
+            "name": "Songs for the Deaf",
+            "artist": "Queens of the Stone Age",
+            "year": 2002,
+            "id": "293sxakrf546g7"
+        }
+    },
+    {
+        "album": {
+            "name": "Ain't it Tragic",
+            "artist": "Dead Sara",
+            "year": 2021,
+            "id": "6374d1247febc9f2"
+        }
+    }
+]
